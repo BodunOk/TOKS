@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab3ToksGUI", "lab3ToksGUI\lab3ToksGUI.csproj", "{97B02029-3963-4E78-BCB1-67AC783E2759}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97B02029-3963-4E78-BCB1-67AC783E2759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97B02029-3963-4E78-BCB1-67AC783E2759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97B02029-3963-4E78-BCB1-67AC783E2759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97B02029-3963-4E78-BCB1-67AC783E2759}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59F6BE35-BC0C-44F2-B71F-D4C052DF5656}
+	EndGlobalSection
+EndGlobal

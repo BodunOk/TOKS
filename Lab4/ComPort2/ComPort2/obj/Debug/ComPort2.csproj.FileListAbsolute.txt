@@ -1,0 +1,10 @@
+C:\Users\abutg\repos\TOKS_GUC\TOKS\Labs\Lab4\ComPort2\ComPort2\bin\Debug\ComPort2.exe.config
+C:\Users\abutg\repos\TOKS_GUC\TOKS\Labs\Lab4\ComPort2\ComPort2\bin\Debug\ComPort2.exe
+C:\Users\abutg\repos\TOKS_GUC\TOKS\Labs\Lab4\ComPort2\ComPort2\bin\Debug\ComPort2.pdb
+C:\Users\abutg\repos\TOKS_GUC\TOKS\Labs\Lab4\ComPort2\ComPort2\obj\Debug\ComPort2.csprojAssemblyReference.cache
+C:\Users\abutg\repos\TOKS_GUC\TOKS\Labs\Lab4\ComPort2\ComPort2\obj\Debug\ComPort.MainForm.resources
+C:\Users\abutg\repos\TOKS_GUC\TOKS\Labs\Lab4\ComPort2\ComPort2\obj\Debug\ComPort2.Properties.Resources.resources
+C:\Users\abutg\repos\TOKS_GUC\TOKS\Labs\Lab4\ComPort2\ComPort2\obj\Debug\ComPort2.csproj.GenerateResource.cache
+C:\Users\abutg\repos\TOKS_GUC\TOKS\Labs\Lab4\ComPort2\ComPort2\obj\Debug\ComPort2.csproj.CoreCompileInputs.cache
+C:\Users\abutg\repos\TOKS_GUC\TOKS\Labs\Lab4\ComPort2\ComPort2\obj\Debug\ComPort2.exe
+C:\Users\abutg\repos\TOKS_GUC\TOKS\Labs\Lab4\ComPort2\ComPort2\obj\Debug\ComPort2.pdb

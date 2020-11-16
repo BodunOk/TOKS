@@ -1,0 +1,10 @@
+C:\Users\abutg\source\repos\lab3ToksGUI\lab3ToksGUI\bin\Debug\lab3ToksGUI.exe.config
+C:\Users\abutg\source\repos\lab3ToksGUI\lab3ToksGUI\bin\Debug\lab3ToksGUI.exe
+C:\Users\abutg\source\repos\lab3ToksGUI\lab3ToksGUI\bin\Debug\lab3ToksGUI.pdb
+C:\Users\abutg\source\repos\lab3ToksGUI\lab3ToksGUI\obj\Debug\lab3ToksGUI.csprojAssemblyReference.cache
+C:\Users\abutg\source\repos\lab3ToksGUI\lab3ToksGUI\obj\Debug\lab3ToksGUI.Form1.resources
+C:\Users\abutg\source\repos\lab3ToksGUI\lab3ToksGUI\obj\Debug\lab3ToksGUI.Properties.Resources.resources
+C:\Users\abutg\source\repos\lab3ToksGUI\lab3ToksGUI\obj\Debug\lab3ToksGUI.csproj.GenerateResource.cache
+C:\Users\abutg\source\repos\lab3ToksGUI\lab3ToksGUI\obj\Debug\lab3ToksGUI.csproj.CoreCompileInputs.cache
+C:\Users\abutg\source\repos\lab3ToksGUI\lab3ToksGUI\obj\Debug\lab3ToksGUI.exe
+C:\Users\abutg\source\repos\lab3ToksGUI\lab3ToksGUI\obj\Debug\lab3ToksGUI.pdb
